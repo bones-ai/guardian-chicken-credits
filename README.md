@@ -8,7 +8,7 @@ This game was made possible thanks to incredible free assets found online.
 - **Font** — Kitchen Sink on itch.io by Polyducks  
   [https://polyducks.itch.io/kitchen-sink-textmode-font](https://polyducks.itch.io/kitchen-sink-textmode-font)
 
-- **Additional Fonts and Sprites**
+- **Sprites**
   - Eight by Eight Things by "dunelec"  
     [https://dungeon.itch.io/eight-by-eight-things-asset](https://dungeon.itch.io/eight-by-eight-things-asset)  
   - Portraits / Faces by JayJay99  
