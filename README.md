@@ -5,7 +5,7 @@ This game was made possible thanks to incredible free assets found online.
 - **Background Music** — from itch.io by Aila Scott  
   [https://ailascott.itch.io/free-music-pack-lo-fi-indie-metal-orchestral](https://ailascott.itch.io/free-music-pack-lo-fi-indie-metal-orchestral)
 
-- **Font** — Kitchen Sink on itch.io by Polyducks  
+- **Font** — Kitchen Sink on itch.io by Polyducks and Retroshark
   [https://polyducks.itch.io/kitchen-sink-textmode-font](https://polyducks.itch.io/kitchen-sink-textmode-font)
 
 - **Sprites**
