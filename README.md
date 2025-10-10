@@ -40,10 +40,11 @@ This list includes all the resources used (or considered) during development —
   https://ibirothe.itch.io/roguelike1bit16x16assetpack
 - **Tabletop Armies** by cmski  
   https://cmski.itch.io/tabletop-armies-asset-pack
-- **Island Assets** by hayaya  
+- **Island Assets** by hayaya
   https://hayaya.itch.io/16-x-16-island
-- **Better Island Assets** by piiixl  
+- **Island Assets** by piiixl  
   https://piiixl.itch.io/island
+  https://piiixl.itch.io/map-tile-set-16px
 - **1-bit Animal Pack** by intergenic  
   https://intergenic.itch.io/1-bit-animals-pack
 - **Hexany Roguelike Tiles** by hexany-ives  
@@ -56,8 +57,6 @@ This list includes all the resources used (or considered) during development —
   https://unsplash.com/photos/nimbus-cumulus-clouds-2t60-JYQ5pk
 
 ### Tools
-- **Sprite Editor (Export to C)** — Piskel  
-  https://www.piskelapp.com/p/create/sprite
 - **Tile Editor** - Tiled
   https://www.mapeditor.org/
 
@@ -80,6 +79,8 @@ This list includes all the resources used (or considered) during development —
   https://fardifferent.itch.io/loops
 
 ### Ambient & Nature Sounds
+Sound Effect by
+<a href="https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=16960">freesound_community</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=16960">Pixabay</a>
 - **Calming Rain**  
   https://pixabay.com/sound-effects/calming-rain-257596/
 - **Nature Ambience**  
@@ -95,6 +96,8 @@ This list includes all the resources used (or considered) during development —
   - https://pixabay.com/sound-effects/birds-19624/  
   - https://pixabay.com/sound-effects/chirping-birds-ambience-217410/  
   - https://pixabay.com/sound-effects/cardinal-37075/  
+- **Rainfall**
+  - https://pixabay.com/sound-effects/gentle-rainfall-16960/
 
 ### Animal Sounds
 - Mouse — https://pixabay.com/sound-effects/mouse-6821/  
