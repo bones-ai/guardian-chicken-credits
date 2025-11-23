@@ -108,7 +108,11 @@ Sound Effect by
 - Moose — https://pixabay.com/sound-effects/moose-elk-66771/  
 - Elephant (search) — https://pixabay.com/sound-effects/search/elephant/  
 - Dino Growl — https://pixabay.com/sound-effects/dinosaur-growl-106744/  
-- Monster Sound — https://pixabay.com/sound-effects/monstersound-78617/  
+- Monster Sound — https://pixabay.com/sound-effects/monstersound-78617/
+- bee - https://pixabay.com/sound-effects/bee-landing-on-flower-374609/
+- crow - https://pixabay.com/sound-effects/crow-sound-effect-hd-336784/
+- kingfisher - https://pixabay.com/sound-effects/bird-333090/
+- flying horse - https://pixabay.com/sound-effects/horse-snort-364469/
 
 ### Sound Effects
 - Chick Cluck — https://pixabay.com/sound-effects/short-chick-sound-171389/  
@@ -124,6 +128,7 @@ Sound Effect by
 - Running on Gravel — https://pixabay.com/sound-effects/running-on-gravel-301880/  
 - Chopping Wood — https://pixabay.com/sound-effects/chopping-wood-with-a-hatchet-50606/  
 - Digging a Hole (crop placement) — https://pixabay.com/sound-effects/dig-a-hole-28460/  
+- night vision effect - https://samplefocus.com/samples/night-vision-sound-effect, https://samplefocus.com/samples/night-vision-sfx
 
 #### Pulse Tower Burst (Freesound - Attribution 4.0)
 - Balloon burst 1 (NationalTheatret Stasjon, Oslo) by acs272  
